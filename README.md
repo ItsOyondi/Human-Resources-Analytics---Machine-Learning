@@ -1,2 +1,3 @@
 # Human-Resources-Analytics---Machine-Learning
-This project focuses on analyzing the most important factors that contributes to employee turnover. Th project focuses on examining factors such as salary, satisfaction level 
+# Author: Josephat Oyondi
+This project focuses on analyzing the most important factors that contributes to employee turnover. Th project focuses on examining factors such as salary, satisfaction level, promotion in the past 5 years, work accidents, and time spent in a company. I created a machine learning model that uses 15000 rows of data to identify the factors in various departments. The model has an accuracy of ~80%, but the results tested so far are 100% accurate.  Within the Python notebook, i have provided detailed insights on the ML model test. This project was inspired from https://www.kaggle.com/code/jacksonchou/hr-analytics/report.  
